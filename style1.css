@@ -1,0 +1,30 @@
+		.container-fluid {
+			background-color: #0089fa;
+		}
+
+		img {
+			display: block;
+			width: 30%;
+            margin: auto;
+		}
+        h1{
+            text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+        }
+        .text-center {
+            text-align: center
+        }
+        .font{
+            font-size: 25 px;
+            font-family:fantasy;
+        }
+        .center {
+            margin: auto;
+            width: 80%;
+            padding: 10px;
+          }
+          .link {
+            font-size: 18px;
+            color: #0a045f;
+          }
